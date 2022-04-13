@@ -1,3 +1,5 @@
+[![Codacy Security Scan](https://github.com/KOSASIH/Vonix/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Vonix/actions/workflows/codacy.yml)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Vonix/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
