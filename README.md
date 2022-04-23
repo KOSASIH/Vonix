@@ -28,3 +28,7 @@ Smart & Convenient
 # Value Proposition
 
 Decentralized application development platform: Vonix aims to pioneer the concept of decentralized applications by providing an easy to use yet powerful decentralized application platform. Vonix will enable the creation of dApps on blockchain smart chain which works on mobile devices as well as desktops and web browsers. Using Vonix will never require downloading new applications or data onto users' devices.
+
+# Instruction
+
+Please Clone or Fork this repository and link it to your github account.  Then you can start exploring Vonix in its entirety by starting to build your project by completing all the necessary information on each page and to contribute to the development of this project you can follow the guidelines provided in the Code Of Conduct file.
