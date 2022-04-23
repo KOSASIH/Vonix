@@ -1,5 +1,6 @@
 [![Codacy Security Scan](https://github.com/KOSASIH/Vonix/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Vonix/actions/workflows/codacy.yml)
 [![CodeQL](https://github.com/KOSASIH/Vonix/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/Vonix/actions/workflows/codeql-analysis.yml)
+[![DeepSource](https://deepsource.io/gh/KOSASIH/Vonix.svg/?label=active+issues&show_trend=true&token=qrEsoX0iTHF-8N2a0xqhp4-2)](https://deepsource.io/gh/KOSASIH/Vonix/?ref=repository-badge)
 
 ## Description
 
