@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/53f3204da65249b88c1ec0e422d1fe94)](https://app.codacy.com/gh/KOSASIH/Vonix?utm_source=github.com&utm_medium=referral&utm_content=KOSASIH/Vonix&utm_campaign=Badge_Grade_Settings)
 [![Codacy Security Scan](https://github.com/KOSASIH/Vonix/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Vonix/actions/workflows/codacy.yml)
 [![CodeQL](https://github.com/KOSASIH/Vonix/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/Vonix/actions/workflows/codeql-analysis.yml)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Vonix.svg/?label=active+issues&show_trend=true&token=qrEsoX0iTHF-8N2a0xqhp4-2)](https://deepsource.io/gh/KOSASIH/Vonix/?ref=repository-badge)
