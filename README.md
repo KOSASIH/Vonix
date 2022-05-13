@@ -2,8 +2,10 @@
 [![CodeQL](https://github.com/KOSASIH/Vonix/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/Vonix/actions/workflows/codeql-analysis.yml)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Vonix.svg/?label=active+issues&show_trend=true&token=qrEsoX0iTHF-8N2a0xqhp4-2)](https://deepsource.io/gh/KOSASIH/Vonix/?ref=repository-badge)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/dd86444092b945c99b6367b0911adeef)](https://www.codacy.com/gh/KOSASIH/Vonix/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KOSASIH/Vonix&amp;utm_campaign=Badge_Grade)
+# Vonix
 
-## Description
+Decentralized Applications ( DApps ) 
+# Description
 
 Decentralized applications (DApps) are one of the most exciting developments in blockchain technology. DApps are applications that run on a decentralized network, not a centralized server. They're powered by smart contracts, which are computer protocols that facilitate, verify, or enforce the performance of a contract.
 
